@@ -2,7 +2,7 @@
 <h3 align="center">Electronics & Communication (IoT) Student | AI & Robotics Enthusiast</h3>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/wrichik-paul-72592b373]" target="_blank">
+  <a href="www.linkedin.com/in/wrichik-paul-72592b373" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="[Your Portfolio/Website URL]" target="_blank">
@@ -40,6 +40,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=(https://github.com/WrichikPaul42)&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=(https://github.com/WrichikPaul42)&theme=radical" alt="GitHub Streak" />
 </div>

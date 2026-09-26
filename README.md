@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Wrichik Paul 👋</h1>
-<h3 align="center">Electronics & Communication (IoT) Student | AI & Robotics Enthusiast</h3>
+<h3 align="center">Computer Science Engineering Student | AI & Robotics Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wrichik-paul-72592b373" target="_blank">
